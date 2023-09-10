@@ -114,7 +114,6 @@ Specializations:
  - [React Docs](https://reactjs.org/)
 
 
-
 <p align="center">
-  <img src="https://github.com/omunite215/FCC-Random-Quote-Generator/assets/78680563/cedfd614-413f-4fcd-829a-9ef255292888" alt="Om's Logo Image"/>
+  <img src="https://github.com/omunite215/FCC-Random-Quote-Generator/assets/78680563/613aa88f-ca0f-4820-9ba5-aae10dcc0c5e" alt="Om's Logo Image"/>
 </p>

@@ -7,7 +7,6 @@
 - Added Copy Text Button Feature to Copy Quotes and their Authors Respectively.
 - Responsive Design Improvements.
 - Minor Bugs and Fixes.
-- Added Animation when quotes change.
 - Enhanced Font style (Contributed by Ahsan Ahmad).
 
 ## This is my First Project Built With React!!

@@ -2,12 +2,13 @@
 
 ![image](https://github.com/omunite215/FCC-Random-Quote-Generator/assets/78680563/0f016eb7-3b1b-4da0-a5fb-3040d439a7be)
 
-## Updates made to this project on 12/03/2023:
+## Updates made to this project on 11/09/2023:
 - Included More Color Themes.
 - Added Copy Text Button Feature to Copy Quotes and their Authors Respectively.
 - Responsive Design Improvements.
-- Introduced Spinner Component which will show until data is been fetched.
 - Minor Bugs and Fixes.
+- Added Animation when quotes change.
+- Enhanced Font style (Contributed by Ahsan Ahmad).
 
 ## This is my First Project Built With React!!
 
@@ -114,7 +115,6 @@ Specializations:
  - [React Docs](https://reactjs.org/)
 
 
-
 <p align="center">
-  <img src="https://github.com/omunite215/FCC-Random-Quote-Generator/assets/78680563/cedfd614-413f-4fcd-829a-9ef255292888" alt="Om's Logo Image"/>
+  <img src="https://github.com/omunite215/FCC-Random-Quote-Generator/assets/78680563/613aa88f-ca0f-4820-9ba5-aae10dcc0c5e" alt="Om's Logo Image"/>
 </p>

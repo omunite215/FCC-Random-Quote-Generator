@@ -13,7 +13,7 @@ export default function Quote(props) {
     .then((data) => {
       let randomNumber = Math.floor(Math.random() * data.length);
       setQuotes(data[randomNumber]);
-    });
+    });  
   };
 
 
@@ -24,8 +24,14 @@ export default function Quote(props) {
   }, []);
 
   function callTwo(){
+    let button = document.getElementById("text");
     changeQuote();
     props.toggleColor();
+    button.classList.add("text-focus-in")
+    setTimeout(MyAnimation,500);
+    function MyAnimation(){
+      button.classList.remove("text-focus-in");
+    }
 }
 
 
@@ -49,7 +55,7 @@ let text = quotes.text + " - " + quotes.author;
     <h4 id='text' className="card-text" value={quotes.text}>"{quotes.text}"</h4>
     <h6 id='author' className="card-text">- {quotes.author} </h6>
     <div className = 'mt-4'>
-    <button className={`btn btn-${props.mode.slice(3)} mx-4`} onClick={callTwo}>Change Quote</button>
+    <button id='change-quote' className={`btn btn-${props.mode.slice(3)} mx-4`} onClick={callTwo}>Change Quote</button>
     <button className={`btn btn-${props.mode.slice(3)} mt-sm-0 mt-4`} onClick={copyText}>CopyText</button>
     </div>
   </div>

@@ -1,6 +1,7 @@
 # FCC - Random Quote Generator
 
-![image](https://github.com/omunite215/FCC-Random-Quote-Generator/assets/78680563/0f016eb7-3b1b-4da0-a5fb-3040d439a7be)
+![image](https://github.com/user-attachments/assets/9d30c829-e484-4d72-8f93-a41c311c08f6)
+
 
 ## Updates made to this project on 21/02/2025:
 - Migrated to TypeScript.
@@ -47,21 +48,21 @@ Before you start, make sure you have the following software installed on your co
 ```
 3. Install the necessary dependencies
 ```bash
-  npm install
+  bun install
 ```
 
 4. Start the development server
 ```bash
-  npm start
+  bun start
 ```
 
 The website should now be up and running on http://localhost:3000.
 
 ## 🏠 Built With:
-[![My Skills](https://skillicons.dev/icons?i=react,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,bun)](https://skillicons.dev)
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
 
 
 ## 📲 Tech Stack

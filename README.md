@@ -2,13 +2,15 @@
 
 ![image](https://github.com/omunite215/FCC-Random-Quote-Generator/assets/78680563/0f016eb7-3b1b-4da0-a5fb-3040d439a7be)
 
-## Updates made to this project on 09/01/2024:
-- Included More Color Themes.
-- Added Copy Text Button Feature to Copy Quotes and their Authors Respectively.
-- Responsive Design Improvements.
-- Added Animation when quote changes.
-- Minor Bugs and Fixes.
-- Migrated to vite.
+## Updates made to this project on 21/02/2025:
+- Migrated to TypeScript.
+- Migrated to bun from pnpm.
+- Migrated to API Ninjas Quote API.
+- Migrated to Farm from Vite as Bundler.
+- Improved Responsiveness and UI.
+- Using React Query for Data Fetching.
+- Using React-Bootstrap Package.
+- minor performance improvements.
 
 ## This is my First Project Built With React!!
 
